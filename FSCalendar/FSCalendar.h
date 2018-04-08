@@ -427,7 +427,7 @@ IB_DESIGNABLE
 /**
  A date object representing the maximum day enable、visible and selectable. (read-only)
  */
-@property (readonly, nonatomic) NSDate *maximumDate;
+@property (retain, nonatomic) NSDate *maximumDate;
 
 /**
  A date object identifying the section of the selected date. (read-only)
