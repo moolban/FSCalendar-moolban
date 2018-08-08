@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name             = "FSCalendar-moolban"
-  s.version          = "2.7.9.1"
+  s.version          = "2.7.9.2"
   s.summary          = "A superiorly awesome iOS7+ calendar control, compatible with Objective-C and Swift."
   
   s.homepage         = "https://github.com/rws08/FSCalendar-moolban"
