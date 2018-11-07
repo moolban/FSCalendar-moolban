@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name             = "FSCalendar-moolban"
-  s.version          = "2.7.9.2"
+  s.version          = "2.8.0.1"
   s.summary          = "A superiorly awesome iOS7+ calendar control, compatible with Objective-C and Swift."
   
   s.homepage         = "https://github.com/rws08/FSCalendar-moolban"
@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => "https://github.com/rws08/FSCalendar.git", :tag => s.version.to_s }
 
   s.platform     = :ios
-  s.ios.deployment_target = '7.0'
+  s.ios.deployment_target = '8.0'
   s.requires_arc = true
   s.framework    = 'UIKit', 'QuartzCore'
   s.source_files = 'FSCalendar/*.{h,m}'
