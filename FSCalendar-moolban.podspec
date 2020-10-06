@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.version          = "2.8.0.1"
   s.summary          = "A superiorly awesome iOS7+ calendar control, compatible with Objective-C and Swift."
   
-  s.homepage         = "https://github.com/rws08/FSCalendar-moolban"
+  s.homepage         = "https://github.com/moolban/FSCalendar-moolban"
   s.screenshots      = "https://cloud.githubusercontent.com/assets/5186464/10262249/4fabae40-69f2-11e5-97ab-afbacd0a3da2.jpg"
   s.license          = 'MIT'
   s.author           = { "Wenchao Ding" => "f33chobits@gmail.com" }
